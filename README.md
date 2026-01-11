@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a programmer from Serbia.<br><br>I mostly work with **C** and **C#**, building games, small applications, and various side-projects.  <br>I like keeping things simple, clean, and functional.<br><br>Here you’ll find a mix of experiments, learning projects, and ideas I’m turning into something useful.  <br>Always open to feedback and collaboration.<br><br>I use Arch btw.
+Hi, I'm a programmer from Serbia.<br><br>I mostly work with **C** and **C#**, building games, small applications, and various side-projects.  <br>I like keeping things simple, clean, and functional.<br><br>Here you’ll find a mix of experiments, learning projects, and ideas I’m turning into something useful.  <br>Always open to feedback and collaboration.<br><br>
 
 
 ## 🌐 Socials:
